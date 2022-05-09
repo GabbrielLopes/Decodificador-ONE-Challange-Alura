@@ -26,5 +26,5 @@ A letra "u" é convertida para "ufat"<br>
 <div/>
 <div>
 <h3 style="text-align: center;margin-top:30px"><strong>Badge de reconhecimento e entrega do desafio</strong></h3>
-    <a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515575BADGE_2.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station" target="_blank"><img align="center" alt="Badge medalha conclusao desafio" height="100%" width="100%" src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515575BADGE_2.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station"></a>
+   <img align="center" alt="Badge medalha conclusao desafio" height="100%" width="100%" src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515575BADGE_2.png">
 </div>
