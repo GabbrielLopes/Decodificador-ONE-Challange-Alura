@@ -1,9 +1,12 @@
 # ❗❕Decodificador ONE❕❗ #
-<div style="display: inline_block"><br>
+As chaves usadas para fazer essa criptografia foram: 
 
-  <img align="center" alt="Gabbriel Lopes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg%22%3E
-  <img align="center" alt="Gabbriel Lopes-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg%22%3E
-  <img align="center" alt="Gabbriel Lopes-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg%22%3E
-  
-</div>
-<br><br>
+A letra "e" é convertida para "enter"<br>
+A letra "i" é convertida para "imes"<br>
+A letra "a" é convertida para "ai"<br>
+A letra "o" é convertida para "ober"<br>
+A letra "u" é convertida para "ufat"<br>
+
+<div>
+  <a href="https://gabblps.github.io/Decodificador-ONE-Challange-Alura/" taget="_blank">CLIQUE AQUI E VEJA COMO FICOU</a>
+<div/>
