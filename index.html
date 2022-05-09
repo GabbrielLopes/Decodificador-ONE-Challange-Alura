@@ -1,0 +1,81 @@
+
+<!-- Regras Codificador: 
+"e" é convertido para "enter" 
+"i" é convertido para "imes"
+"a" é convertido para "ai"
+"o" é convertido para "ober"
+"u" é convertido para "ufat"
+Apenas letras minúsculas
+Não permite acentuação   
+*/
+
+/* Regras Decodificador: 
+"enter" é convertido para "e" 
+"imes" é convertido para "i"
+"ai" é convertido para "a"
+"ober" é convertido para "o"
+"ufat" é convertido para "u"
+Apenas letras minúsculas
+Não permite acentuação     
+-->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/media.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300&display=swap" rel="stylesheet">
+    <title>Codificador ONE</title>
+</head>
+<body>
+    <header>
+        <div class="info-header">
+            <p>© Challange - <a href="https://www.alura.com.br" target="_blank">Alura</a> & <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">Oracle</a> - ONE</p>
+        </div>
+        <div>
+            <img src="imagens/logo-alura.png" alt="Logo alura com inicial da letra a" class="logo-cabecalho">
+            <h2>Codificador <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">ONE</a></h2>
+        </div>
+        <div>
+        </div>
+    </header>
+    <main class="main">
+        <section>
+            <textarea cols="40" rows="6" placeholder="Digite seu texto" class="campo-texto"></textarea>
+            <div>
+                <h6 class="informacao">⚠ Apenas letras minúsculas e sem acento.</h6>
+            </div>
+
+            <div class="botoes">
+                <button class="btn-criptografar">Criptografar</button>
+                <button class="btn-descriptografar">Descriptografar</button>
+            </div>
+        </section>
+
+        <section class="mensagem">
+            <textarea readonly cols="18" rows="8" placeholder="Nenhuma mensagem encontrada" ></textarea>
+            <div class="div-btn-copy">
+                <button class="btn-copy">Copiar</button>
+            </div>
+        </section>
+    </main> 
+    <footer>
+
+        <div class="icons-links">
+            <div class="icons-flex">
+                <a href="https://www.linkedin.com/in/josegabrielalopes/" target="_blank"><img src="imagens/linkedin.png">LinkedIn</a>
+                <a href="https://github.com/GabbLps" target="_blank"><img src="imagens/github.png">GitHub</a>
+            </div>
+        </div>
+
+        <div class="copyright">
+            <p>© Todos os direitos reservado a <a href="https://www.linkedin.com/in/josegabrielalopes/" target="_blank">José Gabriel Araújo Lopes</a></p>
+        </div>
+    </footer>
+</body>
+<script src="./js/script.js"></script>
+</html>
