@@ -1,4 +1,8 @@
 # ❗❕Decodificador ONE❕❗ #
+
+Olá, seja bem-vindo ao meu primeiro repositório do Challange Alura & Oracle | ONE - Decodificador e Codificador de textos.<br>
+Seu objetivo é criptografar ou descriptografar uma mensagem.
+
 As chaves usadas para fazer essa criptografia foram: 
 
 A letra "e" é convertida para "enter"<br>
