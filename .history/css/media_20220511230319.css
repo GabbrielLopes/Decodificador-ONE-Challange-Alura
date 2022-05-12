@@ -1,0 +1,50 @@
+@media screen and (max-width: 760px) {
+
+    header h2 {
+        letter-spacing: normal;
+        align-self: center;
+    }
+
+    .main {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+    }
+    
+    .campo-texto, .mensagem textarea {
+        margin: 30px 5%;
+        margin-bottom: 0px;
+        width: 90%;
+        height: 450px;
+    }
+
+    .mensagem textarea {
+        height: 550px;
+    }
+
+    .informacao {
+        margin-left: 57px;
+    }
+
+    .botoes {
+        margin: 20px 0;
+        margin-left: 10%;
+        max-width: 80%;
+    }
+
+    .mensagem textarea::placeholder {
+        padding-top: 447px;
+        text-align: center;
+        font-size: 20px;
+        background-image: url(../imagens/boneco.png);
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .btn-copy {
+        margin: 2em 15%;
+        margin-top: 1em;
+        width: 100%;
+    }
+
+}
