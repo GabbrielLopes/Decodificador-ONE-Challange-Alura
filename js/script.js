@@ -69,6 +69,7 @@ function desencriptar (texto) {
 function btnCopiar(e) {
     navigator.clipboard.writeText(sectionMensagem.value);
     botaoCopiar.textContent = "Copiado!";
+    sectionMensagem.value = "";
     botaoCopiar.style.border="2px solid white";
     setTimeout(function(){
         botaoCopiar.textContent = "Copiar"; 
