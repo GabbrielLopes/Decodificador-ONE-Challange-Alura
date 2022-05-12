@@ -1,17 +1,21 @@
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 866px) {
 
     header h2 {
-        margin: 20 auto;
+        margin: auto;
         letter-spacing: normal;
+        align-self: center;
+        position: absolute;
+        left: 30%;        
     }
 
     .main {
         display: flex;
         flex-direction: column;
+        margin: 0;
     }
     
     .campo-texto, .mensagem textarea {
-        margin: 30px auto;
+        margin: 30px 5%;
         margin-bottom: 0px;
         width: 90%;
         height: 450px;
@@ -22,13 +26,16 @@
     }
 
     .informacao {
-        margin-left: 57px;
+        margin-left: 10%;
     }
 
     .botoes {
-        margin: 20px 0;
-        margin-left: 20px;
+        margin: 12px 15%;
         max-width: 80%;
+    }
+
+    .btn-criptografar {
+        margin: 0 auto;
     }
 
     .mensagem textarea::placeholder {
@@ -41,9 +48,9 @@
     }
 
     .btn-copy {
-        margin: 2em 85px;
+        margin: 2em 15%;
         margin-top: 1em;
-        width: 50%;
+        width: 100%;
     }
 
 }
