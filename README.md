@@ -24,7 +24,13 @@ A letra "u" é convertida para "ufat"<br>
 <div>
   <a href="https://gabblps.github.io/Decodificador-ONE-Challange-Alura/" taget="_blank">CLIQUE AQUI E VEJA COMO FICOU</a>
 <div/>
-<div>
+  
+<br>
+  <img src="https://user-images.githubusercontent.com/101233353/168910133-0ad89b19-5c8e-446f-adbb-e8740f357274.png">
+<br>
+  
+<div align="center">
 <h3 style="text-align: center;margin-top:30px"><strong>Badge de reconhecimento e entrega do desafio</strong></h3>
-   <img align="center" alt="Badge medalha conclusao desafio" height="100%" width="100%" src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515575BADGE_2.png">
+   <img align="center" alt="Badge medalha conclusao desafio" height="50%" width="50%" src="https://user-images.githubusercontent.com/101233353/168909815-16802d3d-35a5-4793-89ac-d99a7b14354c.png">
 </div>
+<hr>
